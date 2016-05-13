@@ -1,0 +1,5 @@
+header.complexBorder {
+    border-width: 15px;
+    border-color: #F38630;
+    border-style: inset solid;
+}
