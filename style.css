@@ -1,5 +1,3 @@
-header.complexBorder {
-    border-width: 15px;
-    border-color: #F38630;
+h1.solid {
     border-style: solid;
 }
