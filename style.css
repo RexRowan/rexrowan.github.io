@@ -32,3 +32,5 @@ aside {
     padding: 10px;
     margin: 5px;
 }
+intbl {disply::inline-table;text-align:center;vertical-align:middle;border-collapse:collapse;margin:0 2px 0 2px;
+}
