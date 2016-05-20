@@ -1,7 +1,7 @@
 body {
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;       
 background-color: #ffff99;
-background-image="http://bestdesignoptions.com/wp-content/uploads/2009/10/photoshop-pattern-17.jpg"
+background: url("http://bestdesignoptions.com/wp-content/uploads/2009/10/photoshop-pattern-17.jpg");
 }
 aside {
 background-color: #000000;
