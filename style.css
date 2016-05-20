@@ -56,6 +56,9 @@ aside {
 }
 div: {display:block;
 }
+.footer, .push {
+height: 4em;
+}
 </style>
 
 
