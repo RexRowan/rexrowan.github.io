@@ -1,3 +1,9 @@
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
 body {
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;       
 color: yellow;
@@ -33,6 +39,12 @@ aside {
     padding: 10px;
     margin: 5px;
 }
-
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
 
 
