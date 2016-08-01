@@ -10,6 +10,8 @@ h1 { font-family: 'Metrophobic', Arial, serif; font-weight: 1000; margin: 20px; 
 
 p { font-family: 'Metrophobic', Arial, serif; font-weight: 400; margin: 40px; padding: 40px;}
 
-a {font-family: 'Metrophobic', Arial, serif; font-weight: 400; margin: 20px; padding: 20px;}
+a { font-family: 'Metrophobic', Arial, serif; font-weight: 400; margin: 20px; padding: 20px;}
 
-div{ margin: 40px;)
+div { margin: 40px;}
+
+button { margin:40;}
