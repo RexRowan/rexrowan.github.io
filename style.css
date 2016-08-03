@@ -18,7 +18,7 @@ div { margin: 40px;}
 
 form { margin: 40px;}
 
-.btn btn-danger {
+a.btn btn-danger {
   float: right;
 }
 
