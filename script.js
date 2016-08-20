@@ -4,3 +4,5 @@ function greeting() {
   }
   
   greeting();
+  
+$("body").addClass("animated hinge");
